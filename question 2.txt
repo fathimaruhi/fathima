@@ -1,0 +1,5 @@
+start
+step 1:red bead cost=2
+step 2:blue bead cost=3
+step 3:chain cost=10
+step 4:total cost of necklace=60+45+10=115
